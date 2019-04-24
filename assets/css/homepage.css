@@ -1,6 +1,10 @@
 body {
     background-image: url("../img/bg_dark.png");
 }
+
+.centered-col {
+    margin: 0 auto;
+}
 .page_header {
     text-align: center;
 }
